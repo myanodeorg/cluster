@@ -4,20 +4,14 @@
     <Instances count="2" />
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="" />
-      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
-      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="" />
-      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="" />
-      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="" />
-      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
       <Setting name="Git.user" value="" />
       <Setting name="Git.password" value="" />
-      <Setting name="Bootstrap.Origin" value="github.com/youraccount/bootstrap" />
+      <Setting name="Bootstrap.Origin" value="github.com/org/bootstrap" />
       <Setting name="Bootstrap.Branch" value="master" />
-      <Setting name="System.url" value="https://github.com/youraccount/system" />
-      <Setting name="Farm.url" value="https://github.com/youraccount/cluster#farm" />
+      <Setting name="System.url" value="https://github.com/org/system" />
+      <Setting name="Farm.url" value="https://github.com/org/cluster#farm" />
     </ConfigurationSettings>
     <Certificates>
-      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="" thumbprintAlgorithm="sha1" />
     </Certificates>
   </Role>
 </ServiceConfiguration>
