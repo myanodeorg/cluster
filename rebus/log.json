@@ -1,4 +1,3 @@
 [
-  {"name": "console", "write" : true, "default": false},
   {"name": "azuretable", "write" : true, "default": true}
 ]
