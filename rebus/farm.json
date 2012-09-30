@@ -1,5 +1,6 @@
 {
   "name": "farmname",
+  "workersDisabled": false,
   "rootDomain": null,
   "azureStorage": {
     "account" : {
