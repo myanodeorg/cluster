@@ -1,5 +1,5 @@
 {
-  "workersDisabled": true,
+  "name": "farmname",
   "rootDomain": null,
   "azureStorage": {
     "account" : {
