@@ -1,11 +1,11 @@
 {
-  "name": "farmname",
+  "name": "myanodefarm",
   "workersDisabled": false,
   "rootDomain": null,
   "azureStorage": {
     "account" : {
-      "name" : "myazurestorageaccount",
-      "key" : "myazurestorageaccountkey"
+      "name" : "myanodestorage",
+      "key" : "myanodestorageprimarykey"
     }
   }
 }
