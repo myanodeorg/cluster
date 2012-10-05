@@ -1,6 +1,5 @@
 {
   "workersDisabled": true,
-  "rootDomain": null,
   "azureStorage": {
     "account" : {
       "name" : "myazurestorageaccount",
