@@ -1,7 +1,6 @@
 {
   "name": "myanodefarm",
   "workersDisabled": false,
-  "rootDomain": null,
   "azureStorage": {
     "account" : {
       "name" : "myanodestorage",
