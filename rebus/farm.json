@@ -2,7 +2,7 @@
   "workersDisabled": true,
   "azureStorage": {
     "account" : {
-      "name" : "myazurestorageaccount",
+      "name" : "myazurestorage",
       "key" : "myazurestorageaccountkey"
     }
   }
