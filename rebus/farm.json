@@ -3,7 +3,7 @@
   "azureStorage": {
     "account" : {
       "name" : "myazurestorage",
-      "key" : "myazurestorageaccountkey"
+      "key" : "myazurestorageprimarykey"
     }
   }
 }
