@@ -1,3 +1,10 @@
 {
-  "namespaces": {}
+  "name": "myanodefarm",
+  "workersDisabled": false,
+  "azureStorage": {
+    "account" : {
+      "name" : "myanodestorage",
+      "key" : "myanodestorageprimarykey"
+    }
+  }
 }
