@@ -1,10 +1,10 @@
 {
-  "name": "myanodefarm",
+  "name": "dimastopelanode",
   "workersDisabled": false,
   "azureStorage": {
     "account" : {
-      "name" : "myanodestorage",
-      "key" : "myanodestorageprimarykey"
+      "name" : "dimaanodestorage",
+      "key" : "MbH7bGjbYKOfy6JoQw6Dp/H9eoURkHXB6yd/Yzy1ytqWVfAMw3JRrpGgfbUWCuyI59nvz1xjR3LdtVz/mgQEYw=="
     }
   }
 }
